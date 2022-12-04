@@ -12,7 +12,7 @@
 	"budget": 122222,
 	"revenue": 122,
 	"genres": ["horror", "comedy"],
-	}
+	},
 	{
 	"id": 2, 
 	"title": "movie 2",
@@ -25,7 +25,7 @@
 	"budget": 122265,
 	"revenue": 181,
 	"genres": ["horror", "comedy"],
-	}
+	},
 	{
 	"id": 3, 
 	"title": "movie 3",
