@@ -11,9 +11,5 @@
   "profile": {
     "name": "typicode"
   },
-  "movies": [
-	"id": 1, 
-	"title": "movie 1",
-	"tagline": "tagline"
-  ]
+  "movies": []
 }
