@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "movies": [
-  { "id": 1, "title": "movie 1" },
-  { "id": 2, "title": "movie 2" },
-  { "id": 3, "title": "movie 3" }
+  { "id": 1, "title": "movie 1", "tagline": "tagline1" },
+  { "id": 2, "title": "movie 2", "tagline": "tagline2" },
+  { "id": 3, "title": "movie 3", "tagline": "tagline3" }
   ]
 }
