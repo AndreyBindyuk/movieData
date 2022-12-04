@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "movies": [
-  { "id": 1, "title": "movie 1", "tagline": "tagline1", "vote_average": "5", "vote_count": "4", "release_date": "19/03/2007" },
-  { "id": 2, "title": "movie 2", "tagline": "tagline2", "vote_average": "3", "vote_count": "4", "release_date": "20/04/2016" },
-  { "id": 3, "title": "movie 3", "tagline": "tagline3", "vote_average": "4", "vote_count": "4", "release_date": "09/05/2012" }
+  { "id": 1, "title": "movie 1", "tagline": "tagline1", "vote_average": "5", "vote_count": "4", "release_date": "19/03/2007", "poster_path": "/", "overview": "some great movie 1", "budget": 122222, "revenue": 122, "genres": ["horror", "comedy"] },
+  { "id": 2, "title": "movie 2", "tagline": "tagline2", "vote_average": "3", "vote_count": "4", "release_date": "20/04/2016", "poster_path": "/", "overview": "some great movie 2", "budget": 122265, "revenue": 122, "genres": ["horror", "comedy"] },
+  { "id": 3, "title": "movie 3", "tagline": "tagline3", "vote_average": "4", "vote_count": "4", "release_date": "09/05/2012", "poster_path": "/", "overview": "some great movie 3", "budget": 156222, "revenue": 122, "genres": ["horror", "comedy"] }
   ]
 }
