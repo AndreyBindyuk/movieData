@@ -1,43 +1,19 @@
 {
   "posts": [
-    {
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "movies": [
 	"id": 1, 
 	"title": "movie 1",
-	"tagline": "tagline",
-	"vote_average": 4, 
-	"vote_count": "4",
-	"release_date": "19/03/2007",
-	"poster_path": "/", 
-	"overview": "some great movie 1",
-	"budget": 122222,
-	"revenue": 122,
-	"genres": ["horror", "comedy"],
-	},
-	{
-	"id": 2, 
-	"title": "movie 2",
-	"tagline": "tagline",
-	"vote_average": 3, 
-	"vote_count": "4",
-	"release_date": "19/03/2009",
-	"poster_path": "/", 
-	"overview": "some great movie 2",
-	"budget": 122265,
-	"revenue": 181,
-	"genres": ["horror", "comedy"],
-	},
-	{
-	"id": 3, 
-	"title": "movie 3",
-	"tagline": "tagline",
-	"vote_average": 5, 
-	"vote_count": "4",
-	"release_date": "21/06/2017",
-	"poster_path": "/", 
-	"overview": "some great movie 3",
-	"budget": 156222,
-	"revenue": 189,
-	"genres": ["horror", "comedy"],
-	}
-  ],
+	"tagline": "tagline"
+  ]
 }
